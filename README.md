@@ -3,7 +3,7 @@
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 <!-- Typing SVG by mradulvarshney - https://github.com/rahulsingh7906/readme-typing-svg -->
 <p align="left">
-  <a href="https://github.com//readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Rahul%20Singh!;I%20Love%20To%20Explore%20Different%20Domains;I%20Am%20A%20Front-End%20Developer%20❤&font=Fira%20Code&left=true&width=440&height=45&color=FFFFFF&vleft=true&size=20"></a>
+  <a href="https://github.com//readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Rahul%20Singh!;I%20Love%20To%20Explore%20Different%20Domains;I%20Am%20A%20Front-End%20Developer%20❤&font=Fira%20Code&left=true&width=440&height=45&color=#A020F0&vleft=true&size=20"></a>
 </p>
 <!--  -->
 
