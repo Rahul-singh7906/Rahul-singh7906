@@ -12,8 +12,9 @@ I am Rahul Singh, currently pursuing my B.Tech degree in Computer Science from [
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul-singh7906&label=Profile%20views&color=129e00&style=plastic" alt="Rahul-singh7906" /> </p>
 
 ## 👨🏻‍💻 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/-LeetCode-2EC866?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/RahulSingh358/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA500?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/RahulSingh358/)
 <img align='right' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="100">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00008B?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rahul-singh-b8381721b/)
 
 ## Connect With Me:
 
